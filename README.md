@@ -1,0 +1,2 @@
+# India-air-pollution-analysis
+As we all know that, of the most polluted cities in the world, 21 out of 30 were in India in 2019. As per a study based on 2016 data,The biggest causes are vehicular pollution, industrial emissions, thermal power plants, construction dust and waste burning. Here, in the notebook, some analysis are done around air pollution data where cities, states, dangerous gases etc. were focus for analysis.  
